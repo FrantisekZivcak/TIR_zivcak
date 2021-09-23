@@ -115,7 +115,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
                                 </button>
                                 <br>
                                 <a href="#" class="text-secondary">
-                                    <small>Zaregistruj sa</small>
+                                    <small>Zaregistruj sa!</small>
                                 </a>
                                 <br>
                                 <a href="#" class="text-secondary">
